@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T16:14:46.305112+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-29T18:55:25.231401+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -71,6 +71,18 @@
           "time_info": "[00时12分 ~ 07时57分]"
         },
         {
+          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
+          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 18时55分]"
+        },
+        {
           "title": "伊朗警方发现“星链”设备等间谍装备",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
           "source": "百度热搜",
@@ -80,17 +92,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 06时58分]"
-        },
-        {
-          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
-          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 16时14分]"
         },
         {
           "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
@@ -139,6 +140,31 @@
           "time_info": "13时54分"
         },
         {
+          "title": "据悉伊朗大不里士附近传出爆炸声，与销毁爆炸物有关。",
+          "url": "https://flash.jin10.com/detail/20260429183715919800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032594578629292226",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 18时55分]"
+        },
+        {
           "title": "伊朗战争丨美军：港口封锁行动中已要求39艘船掉头",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -184,20 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时58分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032594578629292226",
-          "source": "知乎",
-          "ranks": [
-            6,
-            16,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 16时14分]"
         },
         {
           "title": "卫星图像显示伊朗恰巴哈尔港附近海域出现多艘油轮",
@@ -281,6 +293,17 @@
           "time_info": "[06时58分 ~ 07时57分]"
         },
         {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时55分]"
+        },
+        {
           "title": "伊朗“蚊子舰队”如何控制海峡",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E8%9A%8A%E5%AD%90%E8%88%B0%E9%98%9F%E2%80%9D%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
@@ -298,9 +321,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美军：在对伊朗港口封锁行动中已要求39艘船只掉头",
@@ -312,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗里亚尔兑美元跌至180万的历史新低。",
+          "url": "https://flash.jin10.com/detail/20260429182858837800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美媒：伊朗或向巴基斯坦提交调整版方案",
@@ -380,15 +425,15 @@
           "time_info": "00时13分"
         },
         {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
+          "title": "欧盟放宽国家援助限制，以抵消伊朗局势带来的经济压力",
+          "url": "https://wallstreetcn.com/livenews/3096524",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "18时55分"
         },
         {
           "title": "伊朗德黑兰机场宣布增加航线和航班频次",
@@ -397,7 +442,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -411,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "欧盟委员会宣布临时国家援助规则，有效期至12月31日，以帮助受伊朗战争影响的企业。",
+          "url": "https://flash.jin10.com/detail/20260429181705636800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "伊朗重申：有权采取措施维护霍尔木兹海峡安全",
@@ -438,7 +494,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -470,15 +526,50 @@
           "time_info": "[00时12分 ~ 13时54分]"
         },
         {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 18时55分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美国总统特朗普：伊朗无法达成一致意见。他们不知道如何签署无核协议。他们最好尽快明智起来！",
           "url": "https://flash.jin10.com/detail/20260429161232382800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "英国国王给特朗普送了一口钟",
+          "url": "https://www.toutiao.com/trending/7634038550409216027/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
@@ -492,13 +583,24 @@
           "time_info": "07时57分"
         },
         {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "特朗普发布图片并配文：“不再做老好人。”",
           "url": "https://wallstreetcn.com/livenews/3096362",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -514,18 +616,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时51分 ~ 16时14分]"
-        },
-        {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时14分]"
         },
         {
           "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
@@ -562,6 +652,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 18时55分]"
         },
         {
           "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
@@ -607,18 +710,6 @@
             11,
             10,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 16时14分]"
-        },
-        {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -676,7 +767,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -725,6 +816,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "特朗普一句“爆料”逗笑英国国王",
+          "url": "https://www.toutiao.com/trending/7634095221042581028/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "据美媒Bulwark和福克斯新闻报道，美国国务院正在敲定将特朗普的头像印在美国护照上的计划。",
           "url": "https://flash.jin10.com/detail/20260429013410217800",
           "source": "金十数据",
@@ -742,7 +844,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -844,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "德国总理默茨：与特朗普的私人关系仍然“良好”。",
+          "url": "https://wallstreetcn.com/livenews/3096508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
@@ -895,8 +1008,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 18时55分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时57分 ~ 18时55分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -910,19 +1036,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时57分 ~ 13时54分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时57分 ~ 16时14分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -958,6 +1071,19 @@
           "time_info": "02时17分"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 18时55分]"
+        },
+        {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
           "url": "https://wallstreetcn.com/livenews/3096044",
           "source": "华尔街见闻-快讯",
@@ -968,18 +1094,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时57分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时14分]"
         },
         {
           "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
@@ -1153,7 +1267,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1164,7 +1278,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1186,7 +1300,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1279,11 +1393,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            2
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 18时55分]"
+        },
+        {
+          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
+          "url": "https://www.cls.cn/detail/2359433",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时14分]"
+          "time_info": "[16时14分 ~ 18时55分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -1295,17 +1422,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 00时13分]"
-        },
-        {
-          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
-          "url": "https://www.cls.cn/detail/2359433",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         },
         {
           "title": "DeepSeekV4Pro优惠延期",
@@ -1392,11 +1508,12 @@
           "ranks": [
             12,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 18时55分]"
         }
       ]
     },
