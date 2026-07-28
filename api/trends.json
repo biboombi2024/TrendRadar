@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-28T12:02:14.288256+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-07-28T14:33:33.428073+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 14时33分]"
+        },
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
           "url": "https://news.ifeng.com/c/8v6of60c6nV",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时41分 ~ 07时00分]"
-        },
-        {
-          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
-          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 12时02分]"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 14时33分]"
         },
         {
           "title": "特朗普再给伊朗最后外交窗口：谈判失败将恢复“强力军事行动”",
@@ -97,17 +108,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 12时02分]"
-        },
-        {
           "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
           "url": "https://flash.jin10.com/detail/20260728064510542800",
           "source": "金十数据",
@@ -136,11 +136,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时33分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
@@ -243,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "美乌关系戏剧性反转，泽连斯基再访白宫，特朗普会兑现对乌转向吗？",
+          "url": "https://flash.jin10.com/detail/20260728135155865800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -450,8 +462,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时59分 ~ 12时02分]"
+          "appearance_count": 7,
+          "time_info": "[06时59分 ~ 14时33分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时33分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -464,6 +488,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 05时08分]"
+        },
+        {
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时33分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -514,28 +550,6 @@
           "time_info": "[06时59分 ~ 07时00分]"
         },
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
           "url": "https://wallstreetcn.com/livenews/3140513",
           "source": "华尔街见闻-快讯",
@@ -551,11 +565,12 @@
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时33分]"
         },
         {
           "title": "美股上演芯片风暴 苹果重返市值第一",
@@ -705,7 +720,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -836,6 +851,17 @@
           "time_info": "[01时41分 ~ 03时24分]"
         },
         {
+          "title": "泽连斯基：与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时33分]"
+        },
+        {
           "title": "美称若谈判破裂将强力打击伊朗",
           "url": "https://www.toutiao.com/trending/7667350797637652011/",
           "source": "今日头条",
@@ -845,17 +871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 08时07分]"
-        },
-        {
-          "title": "泽连斯基：与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "据伊朗媒体Fars News：消息人士称，以色列炮击了黎巴嫩南部的阿里·塔希尔高地。",
@@ -878,6 +893,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "伊朗外长与沙特和阿曼外长通话，讨论了在霍尔木兹海峡开展合作的必要性。",
+          "url": "https://wallstreetcn.com/livenews/3140755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "伊朗副外长加里巴巴迪：对美国罪行的调查将继续进行，即使需要15年时间。",
@@ -938,8 +975,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 12时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时41分 ~ 14时33分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -968,8 +1005,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 12时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时41分 ~ 14时33分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -1007,9 +1044,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构：投资者可考虑增持美债短端久期",
+          "url": "https://flash.jin10.com/detail/20260728134306208800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "中长期美债收益率跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3140494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         }
       ]
     },
@@ -1055,23 +1120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中长期美债收益率跌超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3140494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
         }
       ]
     }
